@@ -1,0 +1,11 @@
+parameter,value
+Tout_t_comp,1173.5003967744537
+Pout_t_comp,40.0
+Tin_t_comp,892.556062680686
+CR,2.8194132426027028
+Pin_t_comp,14.187349124839375
+comp_ratio_per_stage,1.29
+N_stages_HPC,5.0
+comp_ratio_per_stage_new,1.230358707104458
+P_euler_calculated,32400.022759904376
+P_comp_required,32400.022759904372
